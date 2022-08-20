@@ -4,7 +4,7 @@
 
 - Studying System Analysis Development.
 
-- Java and Mobile Developer ☕
+- Developer Java and Mobile ☕
 
 **About me**:
 
