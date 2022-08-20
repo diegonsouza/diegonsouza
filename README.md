@@ -4,7 +4,7 @@
 
 - Cursando Análise e Desenvolvimento de Sistema.
 
-- Estudando Java para me tornar um desenvolvedor Back-End ☕
+- Estudando Java e Mobile ☕
 
 **Sobre mim**:
 
