@@ -2,7 +2,7 @@
 
 - Hello! I'm Diego 👍
 
-- Studying System Analysis and Development.
+- Studying System Analysis Development.
 
 - Java and Mobile Developer ☕
 
